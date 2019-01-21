@@ -40,7 +40,7 @@ The CTX-Vista-User-Management module requires the following files:
 * [CTX-Vista-User-Management Studio Package](https://github.com/CortexIntelligentAutomation/CTX-Vista-User-Management/releases/download/v1.0/CTX-Vista-User-Management.studiopkg)
 
 ### Other Requisites
-The CTX-Vista-User-Management module has the following additional requirements which are explained in detail in the [Deployment Plan](#Installation):
+The CTX-Vista-User-Management module has the following additional requirements which are explained in detail in the [Deployment Plan](https://github.com/CortexIntelligentAutomation/CTX-Vista-User-Management/blob/master/CTX-Vista-User-Management%20-%20Deployment%20Plan.pdf)):
 * PowerShell v5 to be installed on the application server
 * SMTP Server Set-up
 
